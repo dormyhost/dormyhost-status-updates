@@ -4,5 +4,4 @@ We regret to inform you that [dormy.host](https://dormy.host) encountered severe
 _23:59 January 28 2019_
 
 Right now [dormy.host](https://dormy.host) is up and operates normally. We are performing some on-site work.
-
 _dormy.host 2019_
