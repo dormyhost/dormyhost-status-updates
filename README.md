@@ -8,3 +8,7 @@ _23:59 January 28 2019_
 
 Right now [dormy.host](https://dormy.host) is up and operates normally. We are performing some on-site work.
 _dormy.host 2019_
+
+We regret to inform you that [dormy.host](https://dormy.host) is currently undergoing a maintenance caused by the degradation of the underlying hardware of Amazon EC2 instance that we use. It is a rare event, so we will need some time in order to resolve the situation. This status will be updated during the next 24 hours.
+Please note that our services use different infrastructure, so **no negative impact** is present for the existing customers.
+_21:51 March 18 2019_
